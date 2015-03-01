@@ -6,7 +6,7 @@ import (
 	"net/http"
 	// "text/template"
 	// "encoding/json"
-	"websocket"
+	"github.com/gorilla/websocket"
 )
 
 /*Global*/
